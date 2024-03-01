@@ -1,14 +1,4 @@
-# Rust
-
-## Cargo TOML
-
-In order to make an extension you will need the Whiskers Launcher crate.
-To install it add the following in your `cargo.toml`:
-
-```rust
-whiskers-launcher-rs = {git = "https://github.com/lighttigerXIV/whiskers-launcher-rs.git"}
-```
-
+# Main.rs
 ## Context
 
 When the extension is executed it can receive a context. This context is responsible to provide the type of action the

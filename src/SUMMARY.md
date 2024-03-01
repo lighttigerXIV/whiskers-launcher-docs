@@ -1,9 +1,16 @@
-# Summary
+[Introduction](./introduction.md)
 
-- [Extensions](./extensions/extensions.md)
-    - [Manifest](./extensions/manifest.md)
-    - [Rust](./extensions/rust.md)
-    - [Building](./extensions/building.md)
-    - [Publish](./extensions/publish.md)
-- [Themes](./themes/themes.md)
-    - [Publish](./themes/publish.md)
+# Extensions
+
+-[Extensions](./extensions/extensions.md)
+- [How It Works](./extensions/how-it-works.md)
+- [Creating Project](./extensions/creating-project.md)
+- [Manifest.json](./extensions/manifest.md)
+- [Main.rs](./extensions/main.md)
+- [Building](./extensions/building.md)
+- [Publish To Store](./extensions/publish.md)
+
+# Themes
+
+- [Exporting A Theme](./themes/exporting.md)
+- [Publish To Store](./themes/publish.md)

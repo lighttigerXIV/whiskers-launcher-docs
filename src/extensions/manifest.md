@@ -1,4 +1,4 @@
-# Manifest
+# Manifest.json
 
 To make an extension you must have a manifest.json file in order for the launcher to read its name, settings and more.
 The manifest has the possible fields:
